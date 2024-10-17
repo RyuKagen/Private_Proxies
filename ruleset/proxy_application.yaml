@@ -1,0 +1,6 @@
+payload:
+  - "PROCESS-NAME,EpicWebHelper.exe"
+  - "PROCESS-NAME,com.square_enix.android_googleplay.octopathw"
+  - "PROCESS-NAME,steamwebhelper.exe"
+  - "PROCESS-NAME,com.valvesoftware.android.steam.community"
+  - "PROCESS-NAME,Game.exe"
